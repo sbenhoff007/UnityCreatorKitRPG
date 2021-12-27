@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/UnityCreatorKitRPG/[Ll]ibrary/
+/UnityCreatorKitRPG/[Tt]emp/
+/UnityCreatorKitRPG/[Oo]bj/
+/UnityCreatorKitRPG/[Bb]uild/
+/UnityCreatorKitRPG/[Bb]uilds/
+/UnityCreatorKitRPG/[Ll]ogs/
+/UnityCreatorKitRPG/[Mm]emoryCaptures/
+/UnityCreatorKitRPG/[Uu]serSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -57,4 +58,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
